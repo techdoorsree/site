@@ -61,13 +61,13 @@
 
       <nav id="nav-menu-container">
         <ul class="nav-menu">
-          <li class="menu-active"><a href="#intro">Home</a></li>
-          <li><a href="#about">About Us</a></li>
-          <li><a href="#services">Services</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
+          <li class="menu-active"><a href="index.html">Home</a></li>
+          <li><a href="index.html">About Us</a></li>
+          <li><a href="index.html">Services</a></li>
+          <li><a href="index.html">Portfolio</a></li>
           
          
-          <li><a href="#contact">Contact</a></li>
+          <li><a href="index.html">Contact</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
@@ -116,10 +116,10 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Home</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">About us</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Services</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Contact Us</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="index.html">Home</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="index.html">About us</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="index.html">Services</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="index.html">Contact Us</a></li>
              
             </ul>
           </div>
